@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        <form action="calculation.php" method="POST">
+        <form action="Calculation.php" method="POST">
             first name: 
             <input type="text" name="value1"><br/>
             Second Value: 
